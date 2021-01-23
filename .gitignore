@@ -1,0 +1,30 @@
+﻿# 放在项目路径下 该配置下的项目将不添加到项目中
+# Android generated
+bin/
+gen/
+classes/
+gen-external-apklibs/
+
+# Ant
+local.properties
+
+# Maven
+target/
+release.properties
+
+# Eclipse
+.classpath
+.project
+.externalToolBuilders/
+.metadata
+.settings
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+# Mac
+.DS_Store
